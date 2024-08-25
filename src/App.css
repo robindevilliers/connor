@@ -1,0 +1,13 @@
+.App {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    /*align-items: stretch;*/
+    /*justify-content: stretch;*/
+
+}
+
+svg {
+    flex: 1 0 auto;
+    background: lightblue;
+}
